@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace cn.lds.chatcore.pcw.Emoji.Entity {
+﻿namespace Doit.Chat.Emoji.Entity {
 
 /// <summary>
 /// 文本串中的单词项目

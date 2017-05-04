@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Drawing;
-using System.IO;
-using System.Security.Permissions;
 using System.Windows.Media.Imaging;
 
-namespace cn.lds.chatcore.pcw.Emoji.Entity {
+namespace Doit.Chat.Emoji.Entity {
 
 /// <summary>
 /// 表情包内的单个表情对象(默认表情)

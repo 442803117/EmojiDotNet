@@ -1,18 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
-using System.Drawing;
-using System.IO;
 using System.Linq;
-using System.Security.Policy;
-using System.Threading;
 using System.Windows;
 using System.Windows.Controls;
-using cn.lds.chatcore.pcw.Emoji.Emoji.Defaults;
-using cn.lds.chatcore.pcw.Emoji.Entity;
+using Doit.Chat.Emoji;
+using Doit.Chat.Emoji.Emoji.Defaults;
+using Doit.Chat.Emoji.Entity;
 
-namespace cn.lds.chatcore.pcw.Emoji {
+namespace Doit.Chat.Emoji {
 /// <summary>
 /// EmojiTabControl.xaml 的交互逻辑
 /// </summary>

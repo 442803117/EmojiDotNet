@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace cn.lds.chatcore.pcw.Emoji.Entity {
+namespace Doit.Chat.Emoji.Entity {
 public class EmojiHitEventArgs : RoutedEventArgs {
     public EmojiHitEventArgs(RoutedEvent routedEvent, object source):base(routedEvent,source) { }
 

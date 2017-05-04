@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
-using cn.lds.chatcore.pcw.Emoji.Entity;
+﻿using System.Collections.Generic;
+using Doit.Chat.Emoji.Entity;
 
-namespace cn.lds.chatcore.pcw.Emoji.Emoji.Defaults {
+namespace Doit.Chat.Emoji.Emoji.Defaults {
 public interface InterfaceSource {
     /// <summary>
     /// 生成表情包对象

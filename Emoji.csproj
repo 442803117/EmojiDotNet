@@ -7,7 +7,7 @@
     <ProjectGuid>{A64E2702-E4F6-4B8F-938E-6FF6222BF7AD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>cn.lds.chatcore.pcw.Emoji</RootNamespace>
+    <RootNamespace>Doit.Chat.Emoji</RootNamespace>
     <AssemblyName>Emoji</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

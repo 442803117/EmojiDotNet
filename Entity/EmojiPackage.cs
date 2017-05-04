@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace cn.lds.chatcore.pcw.Emoji.Entity {
+namespace Doit.Chat.Emoji.Entity {
 
 /// <summary>
 /// 表情包对象

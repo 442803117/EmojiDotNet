@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using cn.lds.chatcore.pcw.Emoji.Entity;
+using Doit.Chat.Emoji.Entity;
 
-namespace cn.lds.chatcore.pcw.Emoji.Emoji.Defaults {
+namespace Doit.Chat.Emoji.Emoji.Defaults {
 
 public class Places : InterfaceSource {
 

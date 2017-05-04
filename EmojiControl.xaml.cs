@@ -2,9 +2,9 @@
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
-using cn.lds.chatcore.pcw.Emoji.Entity;
+using Doit.Chat.Emoji.Entity;
 
-namespace cn.lds.chatcore.pcw.Emoji {
+namespace Doit.Chat.Emoji {
 /// <summary>
 /// EmojiControl.xaml 的交互逻辑
 /// </summary>

@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Net.Sockets;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-using cn.lds.chatcore.pcw.Emoji.Entity;
+using Doit.Chat.Emoji.Entity;
 
-namespace cn.lds.chatcore.pcw.Emoji.Emoji.Defaults {
+namespace Doit.Chat.Emoji.Emoji.Defaults {
 public class DefaultsEmojis {
 
     private static readonly DefaultsEmojis instance = new DefaultsEmojis();

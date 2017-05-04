@@ -1,10 +1,4 @@
-﻿using System;
-using System.Drawing;
-using System.IO;
-using System.Security.Permissions;
-using System.Windows.Media.Imaging;
-
-namespace cn.lds.chatcore.pcw.Emoji.Entity {
+﻿namespace Doit.Chat.Emoji.Entity {
 
 public enum EmojiType {
     Defaults,
